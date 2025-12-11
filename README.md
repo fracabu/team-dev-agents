@@ -174,3 +174,4 @@ Created by [@fracabu](https://github.com/fracabu)
 ---
 
 **Note**: The agents use Claude Sonnet 4 and have access to web search, file reading, and analysis capabilities. Results quality depends on the detail and clarity of the project description provided.
+
