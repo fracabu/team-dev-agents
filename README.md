@@ -1,14 +1,14 @@
 <h1 align="center">Team Dev Agents</h1>
-<h3 align="center">Multi-agent AI development team for SaaS analysis</h3>
+<h3 align="center">AI Development Team Simulation</h3>
 
 <p align="center">
-  <em>5 specialized agents working in parallel to analyze and plan SaaS products</em>
+  <em>Multi-agent system simulating a full dev team</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_AI-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Multi--Agent-FF6B6B?style=flat-square" alt="Multi-Agent" />
+  <img src="https://img.shields.io/badge/Multi--Agent-FF6F00?style=flat-square" alt="Multi-Agent" />
+  <img src="https://img.shields.io/badge/SaaS-2196F3?style=flat-square" alt="SaaS" />
 </p>
 
 <p align="center">
@@ -17,167 +17,83 @@
 
 ---
 
-## Overview
-
-![Team Dev Agents Overview](assets/team-dev-agents-overview.png)
-
----
-
 <a name="english"></a>
 ## :gb: English
 
-### What is Team Dev Agents?
+### Overview
 
-A multi-agent AI system built on Claude Code that simulates a complete development team. When analyzing a SaaS project, **5 specialized agents work in parallel** to provide comprehensive insights.
+A Claude Code multi-agent AI system that simulates a full development team. Provides parallel expert analysis for SaaS product architecture and strategy.
 
-### The Team
+### Agents
 
 | Agent | Role |
 |-------|------|
-| **SaaS Architect** | System architecture, scalability, cloud strategy |
-| **UI/UX Designer** | User experience, design recommendations, accessibility |
-| **Backend Lead** | API design, database, integrations, security |
-| **Frontend Lead** | Component architecture, state management, PWA |
-| **Dev Team Lead** | Business strategy, roadmap, market analysis |
+| Tech Lead | Architecture decisions |
+| Backend Dev | API and database design |
+| Frontend Dev | UI/UX implementation |
+| DevOps | Infrastructure and CI/CD |
+| Product Manager | Strategy and roadmap |
 
 ### Features
 
-- **Parallel Execution**: All 5 agents run simultaneously
-- **Comprehensive Analysis**: Architecture, UX, backend, frontend, business
-- **Live Analysis**: Analyze websites and GitHub repos
-- **Actionable Outputs**: Roadmaps, cost estimates, implementation plans
-- **Italian Market Expertise**: Specialized knowledge of Italian compliance
+- **Parallel Analysis** - Multiple expert perspectives
+- **SaaS Focus** - Product architecture optimization
+- **Strategy Planning** - Full product roadmap
+- **Claude Powered** - Anthropic Claude integration
 
 ### Quick Start
 
 ```bash
-# Clone
 git clone https://github.com/fracabu/team-dev-agents.git
 cd team-dev-agents
-
-# Open in Claude Code and run:
-"Analyze this SaaS project: [description or URL]"
+# Use with Claude Code CLI
 ```
-
-### Example Output
-
-Analysis of **Ospitly** (Italian B&B tax compliance SaaS):
-
-| Metric | Value |
-|--------|-------|
-| Market Potential | 13.6B by 2028 |
-| Recommended Stack | Node.js + PostgreSQL + AWS Milan |
-| Year 1 Investment | 660K |
-| Success Probability | 70-80% |
-| Analysis Time | ~5 minutes |
-
-### Deliverables Generated
-
-- 94-page architecture assessment
-- 20-page UX/UI analysis
-- 18-page backend implementation plan
-- 17-page frontend roadmap
-- 79-page strategic business plan
 
 ---
 
 <a name="italiano"></a>
 ## :it: Italiano
 
-### Cos'e Team Dev Agents?
+### Panoramica
 
-Un sistema AI multi-agente costruito su Claude Code che simula un team di sviluppo completo. Quando analizza un progetto SaaS, **5 agenti specializzati lavorano in parallelo** per fornire analisi complete.
+Sistema AI multi-agent Claude Code che simula un team di sviluppo completo. Fornisce analisi parallela di esperti per architettura e strategia prodotti SaaS.
 
-### Il Team
+### Agenti
 
 | Agente | Ruolo |
 |--------|-------|
-| **SaaS Architect** | Architettura di sistema, scalabilita, strategia cloud |
-| **UI/UX Designer** | User experience, raccomandazioni design, accessibilita |
-| **Backend Lead** | Design API, database, integrazioni, sicurezza |
-| **Frontend Lead** | Architettura componenti, state management, PWA |
-| **Dev Team Lead** | Strategia business, roadmap, analisi di mercato |
+| Tech Lead | Decisioni architetturali |
+| Backend Dev | Design API e database |
+| Frontend Dev | Implementazione UI/UX |
+| DevOps | Infrastruttura e CI/CD |
+| Product Manager | Strategia e roadmap |
 
 ### Funzionalita
 
-- **Esecuzione Parallela**: Tutti e 5 gli agenti girano simultaneamente
-- **Analisi Completa**: Architettura, UX, backend, frontend, business
-- **Analisi Live**: Analizza siti web e repo GitHub
-- **Output Actionable**: Roadmap, stime costi, piani di implementazione
-- **Expertise Mercato Italiano**: Conoscenza specializzata compliance italiana
+- **Analisi Parallela** - Multiple prospettive esperte
+- **Focus SaaS** - Ottimizzazione architettura prodotto
+- **Pianificazione Strategia** - Roadmap prodotto completa
+- **Claude Powered** - Integrazione Anthropic Claude
 
-### Quick Start
+### Avvio Rapido
 
 ```bash
-# Clona
 git clone https://github.com/fracabu/team-dev-agents.git
 cd team-dev-agents
-
-# Apri in Claude Code ed esegui:
-"Analizza questo progetto SaaS: [descrizione o URL]"
+# Usa con Claude Code CLI
 ```
-
-### Esempio di Output
-
-Analisi di **Ospitly** (SaaS compliance fiscale B&B italiano):
-
-| Metrica | Valore |
-|---------|--------|
-| Potenziale di Mercato | 13.6B entro 2028 |
-| Stack Consigliato | Node.js + PostgreSQL + AWS Milano |
-| Investimento Anno 1 | 660K |
-| Probabilita Successo | 70-80% |
-| Tempo Analisi | ~5 minuti |
-
-### Deliverable Generati
-
-- Assessment architettura 94 pagine
-- Analisi UX/UI 20 pagine
-- Piano implementazione backend 18 pagine
-- Roadmap frontend 17 pagine
-- Business plan strategico 79 pagine
 
 ---
 
-## Use Cases
+## Tech Stack
 
-- Validating a SaaS idea before building
-- Second opinion on architecture decisions
-- Estimating development costs and timeline
-- Creating investor pitches with technical details
-- Competitive analysis and positioning
-
-## Project Structure
-
-```
-team-dev-agents/
-├── .claude/agents/           # Agent definitions
-│   ├── saas-architect.md
-│   ├── backend-lead-engineer.md
-│   ├── frontend-lead-engineer.md
-│   ├── ui-ux-designer.md
-│   └── development-team-lead.md
-├── reports/                  # Analysis outputs
-├── CLAUDE.md
-└── README.md
-```
-
-## Prerequisites
-
-- [Claude Code](https://claude.ai/code) installed
-- Access to Claude API (Sonnet 4)
-
----
+- Claude Code, Multi-Agent System
 
 ## License
 
 MIT
 
 ---
-
-<p align="center">
-  <strong>Team Dev Agents</strong> — Your AI development team
-</p>
 
 <p align="center">
   <a href="https://github.com/fracabu">
